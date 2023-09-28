@@ -1,9 +1,11 @@
-👋 ¡Hola! Soy @kfonsecah.
+# 👋 Hello! I'm @kfonsecah.
 
-👀 Estoy interesado en aprender sobre desarrollo de software, inteligencia artificial y tecnologías emergentes.
+## 🌟 About Me
+- 👀 **Interests:** I'm passionate about software development, artificial intelligence, emerging technologies, and cybersecurity.
+- 🌱 **Currently Learning:** Delving deeper into web development, the realms of artificial intelligence, and the intricacies of cybersecurity.
+- 💞️ **Collaboration:** Eager to contribute to open-source projects, particularly those centered around machine learning and data science.
 
-🌱 Actualmente estoy aprendiendo nuevos enfoques en el desarrollo web y explorando más a fondo el campo de la inteligencia artificial, asi como tambien sobre seguridad cibernetica.
+## 📞 Contact Me
+- 📧 Email: [kfonsecah2004@gmail.com](mailto:kfonsecah2004@gmail.com)
+- 💬 Discord: `milfsdestroyer23`
 
-💞️ Estoy buscando colaborar en proyectos de código abierto relacionados con el aprendizaje automático y la ciencia de datos.
-
-📫 Puedes contactarme a través de mi correo electrónico kfonsecah2004@gmail.com.
