@@ -1,22 +1,36 @@
-# Kendall Fonseca
+<div id="header" align="center">
+    <h1>Hi👋, I'm Kendall Fonseca Hidalgo </h1>
+    <h3>Cybersecurity analyst </h3>
+</div>  
 
-I'm Kendall Fonseca, a Systems Engineering student at the National University of Costa Rica, committed to continuous learning and development in the field of computer science.
+<div align="center">
+     <i>I'm a Systems and Informatic Engineering student from Costa Rica</i> 
+    <br>
+            <i>Still learning and passionate for what I am doing </i>
+</br>
+</div>
+<br/>
+🌟 About Me:
 
-## About Me
-Currently focused on improving my skills in various programming languages, including Java, C++, SQL, Oracle, and Python. My primary interest lies in web cybersecurity and computer network infrastructure.
+    📚 Coursing 2nd year of Systems Engineering at the National University of Costa Rica.
+    🔭 I'm currently developing my Web Page and University projects.
+    🌱 Learning C++,Java,Python,Css,SQL,JavaScript.
+    📫 Reach me at: kendaallfh2004@outlook.com
 
-## Contact
-- **Discord:** [milfsdestroyer23](https://discord.com/) ![Discord Logo](images/discord_logo.png)
-- **Instagram:** [kfonsecah](https://www.instagram.com/kfonsecah/) ![Instagram Logo](images/instagram_logo.png)
-- **Email:** kendallfh2004@outlook.com ![Email Logo](images/email_logo.png)
-
-## Proficient Languages
-- Java
-- C++
-- SQL
-- Oracle
-- Python
-
-![Languages Logo](images/languages_logo.png)
-
-I'm always open to new opportunities and collaborations on innovative projects! Feel free to contact me if you'd like to discuss a proposal or if you have any questions.
+🛠️ Languages and Tools:
+<p align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="DataBase" alt="DataBase" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.JS" **alt="Node.JS" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" **alt="LaTex" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" **alt="Swift" width="40" height="40"/>
+</p>
