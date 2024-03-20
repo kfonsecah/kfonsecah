@@ -34,3 +34,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" **alt="Swift" width="40" height="40"/>
 </p>
+
+<div align="center">
+<i>"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</i>
