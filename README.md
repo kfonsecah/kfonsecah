@@ -15,7 +15,7 @@
     📚 Coursing 2nd year of Systems Engineering at the National University of Costa Rica.
     🔭 I'm currently developing my Web Page and University projects.
     🌱 Learning C++,Java,Python,Css,SQL,JavaScript.
-    📫 Reach me at: kendaallfh2004@outlook.com
+    📫 Reach me at: kendallfh2004@outlook.com
 
 🛠️ Languages and Tools:
 <p align="center">
