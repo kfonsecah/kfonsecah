@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi👋, I'm Kendall Fonseca Hidalgo </h1>
-    <h3>Cybersecurity analyst </h3>
+    
 </div>  
 
 <div align="center">
