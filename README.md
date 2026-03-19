@@ -1,1 +1,1 @@
-<i>"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</i>
+<i>"Confine yourself to the present." - Marco Aurelio</i>
